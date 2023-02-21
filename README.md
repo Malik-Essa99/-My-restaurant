@@ -1,7 +1,6 @@
-Wireframe
 # Burger House 
 
-![Wireframe](Design.png);
+![Wireframe](Design.png)
 
 # Welcome to BURGER HOUSE Webpage!
 
@@ -17,5 +16,6 @@ Wireframe
 
 + Special : beef burger with Cheddar, caramelized onions, special sauce
 
-+ Veggie : Falafel burger with dry Tomato, p
- main
++ Veggie : Falafel burger with dry Tomato, pesto
+
++ Cheese Burger : Chedar cheese, Tomato sauce, Onion 
