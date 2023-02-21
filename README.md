@@ -1,3 +1,8 @@
+Wireframe
+# Burger House 
+
+![Wireframe](Design.png);
+
 # Welcome to BURGER HOUSE Webpage!
 
 ![Burger](best-nyc-burger-phpm4xlPf.jpeg)
@@ -13,3 +18,4 @@
 + Special : beef burger with Cheddar, caramelized onions, special sauce
 
 + Veggie : Falafel burger with dry Tomato, p
+ main
